@@ -57,26 +57,13 @@ React Native · Expo · iOS · Android
 
 ### Stack
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nuxt&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,redis&theme=dark" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,swift,kotlin,figma,git,docker&theme=dark" alt="Mobile & Tools" />
 
-```
-                                    ┏━━━━━━━━━━━━━┓
-                                    ┃  MY STACK   ┃
-                                    ┗━━━━━━┳━━━━━━┛
-                                           ┃
-              ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-              ┃                             ┃                             ┃
-      ┏━━━━━━━┻━━━━━━━┓            ┏━━━━━━━━┻━━━━━━━┓            ┏━━━━━━━━┻━━━━━━━┓
-      ┃   FRONTEND    ┃            ┃    MOBILE      ┃            ┃    BACKEND     ┃
-      ┗━━━━━━━┳━━━━━━━┛            ┗━━━━━━━━┳━━━━━━━┛            ┗━━━━━━━━┳━━━━━━━┛
-              ┃                             ┃                             ┃
-    ┌─────────┼─────────┐                   │                   ┌─────────┼─────────┐
-    │         │         │                   │                   │         │         │
-┌───┴───┐ ┌───┴───┐ ┌───┴───┐          ┌────┴────┐          ┌───┴───┐ ┌───┴───┐ ┌───┴───┐
-│ React │ │Next.js│ │Tailwnd│          │  React  │          │Node.js│ │Laravel│ │Postgre│
-│ Vue   │ │ Nuxt  │ │ SCSS  │          │  Native │          │Express│ │FastAPI│ │MongoDB│
-└───────┘ └───────┘ └───────┘          └─────────┘          └───────┘ └───────┘ └───────┘
-```
+</div>
 
 ---
 
