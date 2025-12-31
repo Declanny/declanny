@@ -17,7 +17,7 @@ I help founders and product teams move from idea to production—owning the arch
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="250" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer" width="300" />
 
 </td>
 </tr>
