@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&lines=I+help+founders+and+product+teams+move+from+idea+to+production" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="200" />
+
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/chisomhenry.me-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://www.chisomhenry.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chisomhenryg/)
