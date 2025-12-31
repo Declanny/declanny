@@ -30,10 +30,10 @@
 
 #### Web Development
 
-Designing and shipping production-ready web apps using React, Next.js, Laravel, and Tailwind for startups and scaleups.
+Designing and shipping production-ready web apps using React, Next.js, and Tailwind for startups and scaleups.
 
 ```
-React · Next.js · TypeScript · Tailwind · Laravel
+React · Next.js · TypeScript · Tailwind
 ```
 
 </td>
