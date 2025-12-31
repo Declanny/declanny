@@ -68,16 +68,5 @@ React Native · Expo · iOS · Android
 ---
 
 <div align="center">
-
-### Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Declanny&show_icons=true&hide_border=true&hide_title=true&icon_color=6AD3F7&text_color=9f9f9f&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Declanny&hide_border=true&background=0D1117&stroke=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=555"/>
-
-</div>
-
----
-
-<div align="center">
 <sub>Less complexity, more clarity.</sub>
 </div>
