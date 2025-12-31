@@ -48,7 +48,7 @@ React · Next.js · TypeScript · Tailwind · Laravel
 
 #### Mobile Development
 
-Building cross-platform experiences with React Native, Expo, and native APIs, from MVPs to enterprise deployments.
+Building cross-platform mobile experiences with React Native, Expo, and native APIs, from MVPs to enterprise deployment.
 
 ```
 React Native · Expo · iOS · Android
