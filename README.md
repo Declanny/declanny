@@ -83,6 +83,14 @@ React Native · Expo · iOS · Android
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
 <br>Nginx
 </td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -108,16 +116,6 @@ React Native · Expo · iOS · Android
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
 <br>Prettier
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<br>Java
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
