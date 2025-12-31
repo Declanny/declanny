@@ -1,22 +1,27 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=150&section=header&text=Chisom%20Henry&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+## Chisom Henry
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&lines=I+help+founders+and+product+teams+move+from+idea+to+production" alt="Typing SVG" />
-</a>
+**Software Developer**
 
-<br/><br/>
+I help founders and product teams move from idea to production—owning the architecture, engineering, and product polish for both web dashboards and consumer-grade mobile apps.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="200" />
-
-<br/><br/>
+<br/>
 
 [![Website](https://img.shields.io/badge/chisomhenry.me-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://www.chisomhenry.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chisomhenryg/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chisomhenryg@gmail.com)
 
-</div>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="250" />
+
+</td>
+</tr>
+</table>
 
 ---
 
