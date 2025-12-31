@@ -110,6 +110,24 @@ React Native · Expo · iOS · Android
 <br>Prettier
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+<br>Sass
+</td>
+</tr>
 </table>
 
 </div>
