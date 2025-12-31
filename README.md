@@ -57,11 +57,31 @@ React Native · Expo · iOS · Android
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nuxt&theme=dark" alt="Frontend" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,redis&theme=dark" alt="Backend" />
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,swift,kotlin,figma,git,docker&theme=dark" alt="Mobile & Tools" />
 
 </div>
 
