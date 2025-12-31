@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
-
 ```
    ██████╗██╗  ██╗██╗███████╗ ██████╗ ███╗   ███╗
   ██╔════╝██║  ██║██║██╔════╝██╔═══██╗████╗ ████║
@@ -13,7 +11,7 @@
 
 **Software Developer**
 
-Building products that matter.
+I help founders and product teams move from idea to production—owning the architecture, engineering, and product polish for both web dashboards and consumer-grade mobile apps.
 
 <br/>
 
@@ -25,22 +23,77 @@ Building products that matter.
 
 ---
 
-### Stack
+<div align="center">
+
+### What I Do
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Web Development
+
+Designing and shipping production-ready web apps using React, Next.js, Laravel, and Tailwind for startups and scaleups.
 
 ```
-Frontend        React · Next.js · TypeScript · Tailwind
-Mobile          React Native
-Backend         Node.js · Express · PostgreSQL · MongoDB
-Tools           Git · Docker · Vercel
+React · Next.js · TypeScript · Tailwind · Laravel
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### Mobile Development
+
+Building cross-platform experiences with React Native, Expo, and native APIs, from MVPs to enterprise deployments.
+
+```
+React Native · Expo · iOS · Android
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Stack
+
+</div>
+
+```
+                              ┌─────────────────────────────────────┐
+                              │              MY STACK               │
+                              └──────────────────┬──────────────────┘
+                                                 │
+                   ┌─────────────────────────────┼─────────────────────────────┐
+                   │                             │                             │
+             ╔═════╧═════╗                 ╔═════╧═════╗                 ╔═════╧═════╗
+             ║  FRONTEND ║                 ║  MOBILE   ║                 ║  BACKEND  ║
+             ╚═════╤═════╝                 ╚═════╤═════╝                 ╚═════╤═════╝
+                   │                             │                             │
+     ┌─────────────┼─────────────┐               │                   ┌─────────┴─────────┐
+     │             │             │               │                   │                   │
+┌────┴────┐   ┌────┴────┐   ┌────┴────┐    ┌────┴────┐          ┌────┴────┐        ┌────┴────┐
+│  React  │   │ Next.js │   │ Tailwind│    │  React  │          │ Node.js │        │ Laravel │
+│  Vue.js │   │  Nuxt   │   │  SCSS   │    │  Native │          │ Express │        │ FastAPI │
+└─────────┘   └─────────┘   └─────────┘    └─────────┘          └─────────┘        └─────────┘
 ```
 
 ---
 
+<div align="center">
+
 ### Stats
 
-<div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Declanny&show_icons=true&hide_border=true&hide_title=true&icon_color=6AD3F7&text_color=9f9f9f&bg_color=0d1117"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Declanny&hide_border=true&background=0D1117&stroke=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=555"/>
+
 </div>
 
 ---
