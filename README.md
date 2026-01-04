@@ -12,13 +12,14 @@ I focus on building products that are **scalable, maintainable, and user-focused
 
 <br/>
 
-[![Website](https://img.shields.io/badge/chisomhenry.me-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://www.chisomhenry.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/chisomhenryg/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chisomhenryg@gmail.com)
+[![Website](https://img.shields.io/badge/Website-chisomhenry.me-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chisomhenry.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chisom%20Henry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chisomhenryg/)
+[![Email](https://img.shields.io/badge/Gmail-chisomhenryg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chisomhenryg@gmail.com)
 
 </td>
 </tr>
 </table>
+
 
 
 ---
