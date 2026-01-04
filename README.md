@@ -4,9 +4,11 @@
 
 ## Chisom Henry
 
-**Software Developer**
+**Software Developer · Product Engineer**
 
-I help founders and product teams move from idea to production—owning the architecture, engineering, and product polish for both web dashboards and consumer-grade mobile apps.
+I help founders and product teams turn ideas into **production-ready software** — owning system architecture, engineering execution, and product polish across **web dashboards** and **consumer-grade mobile apps**.
+
+I focus on building products that are **scalable, maintainable, and user-focused**, from MVP to launch.
 
 <br/>
 
@@ -15,9 +17,9 @@ I help founders and product teams move from idea to production—owning the arch
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chisomhenryg@gmail.com)
 
 </td>
-
 </tr>
 </table>
+
 
 ---
 
