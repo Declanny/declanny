@@ -69,7 +69,7 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 <tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br>React
+<br>React.js
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
