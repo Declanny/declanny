@@ -141,5 +141,5 @@ React Native · Expo · iOS · Android
 ---
 
 <div align="center">
-<sub>Less complexity, more clarity.</sub>
+<sub>✨ Less complexity, more clarity.</sub>
 </div>
