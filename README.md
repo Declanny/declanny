@@ -63,7 +63,7 @@ React Native · Expo · iOS · Android
 
 <div align="center">
 
-### Stack
+### 🛠️ Stack
 
 <table>
 <tr>
