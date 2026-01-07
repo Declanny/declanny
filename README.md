@@ -47,7 +47,7 @@ React · Next.js · TypeScript · Tailwind
 </td>
 <td width="50%" valign="top">
 
-#### Mobile Development
+#### 📱 Mobile Development
 
 Building cross-platform mobile experiences with React Native, Expo, and native APIs for startups and scaleups.
 
