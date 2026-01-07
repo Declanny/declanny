@@ -52,7 +52,7 @@ Designing and shipping production-ready web apps using React, Next.js, and Tailw
 Building cross-platform mobile experiences with React Native, Expo, and native APIs for startups and scaleups globally.
 
 ```
-📲 React Native · Expo · iOS · Android
+📲 React Native · Expo SDK · iOS · Android
 ```
 
 </td>
