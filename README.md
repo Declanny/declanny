@@ -4,7 +4,7 @@
 
 ## Chisom Henry
 
-**Software Developer · Product Engineer**
+**Software Developer · Product Engineer** 🚀
 
 I help founders and product teams turn ideas into **production-ready software** — owning system architecture, engineering execution, and product polish across **web dashboards** and **consumer-grade mobile apps**.
 
