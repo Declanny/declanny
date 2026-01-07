@@ -8,7 +8,7 @@
 
 I help founders and product teams turn ideas into **production-ready software** — owning system architecture, engineering execution, and product polish across **web dashboards** and **consumer-grade mobile apps**.
 
-I focus on building products that are **scalable, maintainable, and user-focused**, from MVP to launch.
+I focus on building products that are **scalable, maintainable, and user-focused** 🎯, from MVP to launch.
 
 <br/>
 
