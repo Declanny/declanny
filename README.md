@@ -26,7 +26,7 @@ I focus on building products that are **scalable, maintainable, and user-focused
 
 <div align="center">
 
-### 💼 What I Do
+###  What I Do
 
 </div>
 
