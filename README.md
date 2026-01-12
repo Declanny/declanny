@@ -141,5 +141,5 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 ---
 
 <div align="center">
-<sub>✨ Less complexity, more clarity.</sub>
+<sub>Less complexity, more clarity.</sub>
 </div>
