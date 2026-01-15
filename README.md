@@ -36,7 +36,7 @@ I focus on building products that are **scalable, maintainable, and user-focused
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 Web Development
+####  Web Development
 
 Designing and shipping production-ready web apps using React, Next.js, and Tailwind for startups and scaleups worldwide.
 
