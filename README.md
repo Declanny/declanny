@@ -47,7 +47,7 @@ Designing and shipping production-ready web apps using React, Next.js, and Tailw
 </td>
 <td width="50%" valign="top">
 
-#### 📱 Mobile Development
+### 📱 Mobile Development
 
 Building cross-platform mobile experiences with React Native, Expo, and native APIs for startups and scaleups globally.
 
