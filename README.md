@@ -38,7 +38,7 @@ I focus on building products that are **scalable, maintainable, and user-focused
 
 ####  Web Development
 
-Designing and shipping production-ready web apps using React, Next.js, and Tailwind for startups and scaleups worldwide.
+Designing and shipping production-ready web apps using React, Next.js, and Tailwind for startups & scaleups worldwide.
 
 ```
  React · Next.js · TypeScript · Tailwind CSS
