@@ -122,14 +122,6 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 <br>REST API
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
-<br>Prettier
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
 <br>Sass
 </td>
