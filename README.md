@@ -84,14 +84,6 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-<br>Nginx
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
 <br>Redux
 </td>
@@ -102,10 +94,6 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br>MySQL
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 <br>AWS
 </td>
@@ -114,16 +102,8 @@ Building cross-platform mobile experiences with React Native, Expo, and native A
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-<br>GraphQL
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
 <br>REST API
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-<br>Sass
 </td>
 </tr>
 </table>
